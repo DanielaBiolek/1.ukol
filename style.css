@@ -1,0 +1,104 @@
+h1 {
+    text-align: center;
+    font-family: Righteous, Arial, Helvetica, sans-serif;
+    margin: 0px;
+    padding: 90px;
+    background-color: #0a0101;
+    color: #f4c4c4;
+    font-size: 40px;   
+}
+
+p, a, h2, ul, table {
+    font-family: Poppins, Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    line-height: 1.8;
+    color: #0a0101;
+}
+
+a {
+    font-style: italic;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.ja {
+    width: 220px;
+    border-radius: 10%;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #0a0101;     
+    float: left;  
+    margin: 50px
+}
+
+
+.mary {
+    width: 300px;
+    border-radius: 10%;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #0a0101;     
+    float: right;   
+    margin: 50px;
+}
+
+.omne {
+    overflow: auto;
+}
+
+
+.hlavicka {
+    padding: 0;
+    margin: 0;
+}
+
+.omne, .seznam, .tabulka, .kontakt {
+    padding: 50px 15%;
+}
+
+.omne,
+.tabulka {
+    background-color: #ffdede;
+}
+
+.seznam,
+.kontakt {
+background-color: #ffeeee;
+}
+
+.kontakt{
+    text-align: center;
+}
+
+.tabulka td {
+    border-bottom: 1px solid #0a0101;
+}
+
+td {
+    text-align: left;
+    padding: 10px 20px;
+}
+
+.vrch  {
+    border-top: 1px solid #0a0101 ;
+}
+
+table {
+    border-spacing: 0px;
+}
+
+
+.paticka {
+    text-align: center;
+    margin: 0px;
+    padding: 15px 0px ;
+    background-color: #0a0101;
+    color: #f4c4c4;
+}
+
+body {
+    margin: 0px;
+}
