@@ -5,10 +5,14 @@ h1 {
     padding: 90px;
     background-color: #0a0101;
     color: #f4c4c4;
-    font-size: 40px;   
+    font-size: 48px;   
 }
 
-p, a, h2, ul, table {
+p, 
+a, 
+h2, 
+ul, 
+table {
     font-family: Poppins, Arial, Helvetica, sans-serif;
     font-size: 17px;
     line-height: 1.8;
@@ -22,7 +26,13 @@ a {
 h2 {
     text-align: center;
     margin-bottom: 40px;
+    font-size: 25px;
 }
+
+.nadpistabulka {
+    margin-bottom: 50px;
+}
+
 
 .ja {
     width: 220px;
@@ -31,7 +41,7 @@ h2 {
     border-style: solid;
     border-color: #0a0101;     
     float: left;  
-    margin: 50px
+    margin: 50px 50px 30px 50px;
 }
 
 
@@ -55,8 +65,11 @@ h2 {
     margin: 0;
 }
 
-.omne, .seznam, .tabulka, .kontakt {
-    padding: 50px 15%;
+.omne, 
+.seznam, 
+.tabulka, 
+.kontakt {
+    padding: 30px 18%;
 }
 
 .omne,
@@ -73,13 +86,11 @@ background-color: #ffeeee;
     text-align: center;
 }
 
-.tabulka td {
-    border-bottom: 1px solid #0a0101;
-}
 
 td {
     text-align: left;
     padding: 10px 20px;
+    border-bottom: 1px solid #0a0101;
 }
 
 .vrch  {
@@ -88,8 +99,8 @@ td {
 
 table {
     border-spacing: 0px;
+    padding-bottom: 30px;
 }
-
 
 .paticka {
     text-align: center;
@@ -98,6 +109,7 @@ table {
     background-color: #0a0101;
     color: #f4c4c4;
 }
+
 
 body {
     margin: 0px;
