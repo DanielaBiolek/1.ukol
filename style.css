@@ -107,9 +107,11 @@ table {
     margin: 0px;
     padding: 15px 0px ;
     background-color: #0a0101;
-    color: #f4c4c4;
 }
 
+.paticka p{
+    color: #f4c4c4;
+}
 
 body {
     margin: 0px;
